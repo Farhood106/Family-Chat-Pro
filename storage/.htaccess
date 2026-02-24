@@ -1,0 +1,14 @@
+Options -Indexes
+
+# Never execute scripts from storage
+<FilesMatch "\.(php|phtml|phar)$">
+  Deny from all
+</FilesMatch>
+
+# Basic caching for static files
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpeg "access plus 7 days"
+  ExpiresByType image/png "access plus 7 days"
+  ExpiresByType image/webp "access plus 7 days"
+</IfModule>
