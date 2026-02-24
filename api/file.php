@@ -48,12 +48,30 @@ if (!$base || !$path || strpos($path, $base) !== 0 || !is_file($path)) {
 }
 
 $mime = (string)($m['file_mime'] ?? 'application/octet-stream');
+$mime = trim((string)($m['file_mime'] ?? 'application/octet-stream'));
+if (!preg_match('/^[a-z0-9][a-z0-9!#$&^_.+-]*\/[a-z0-9][a-z0-9!#$&^_.+-]*$/i', $mime)) {
+    $mime = 'application/octet-stream';
+}
+
 $name = (string)($m['file_name'] ?? 'file');
 $size = (int)($m['file_size'] ?? 0);
+$name = preg_replace('/[\x00-\x1F\x7F"\\\\]/u', '', $name) ?? 'file';
+$name = trim($name);
+if ($name === '') {
+    $name = 'file';
+}
+
+$size = filesize($path);
+if ($size === false) {
+    http_response_code(404);
+    exit('Not found');
+}
 
 header('Content-Type: ' . $mime);
 header('Content-Length: ' . $size);
 header('Content-Disposition: inline; filename="' . str_replace('"','', $name) . '"');
+header('Content-Length: ' . (string)$size);
+header('Content-Disposition: inline; filename="' . $name . '"');
 header('X-Content-Type-Options: nosniff');
 readfile($path);
 exit;
