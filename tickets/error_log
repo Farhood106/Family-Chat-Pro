@@ -1,0 +1,128 @@
+[28-Jan-2026 05:59:34 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 188
+[28-Jan-2026 05:59:34 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 233
+[28-Jan-2026 05:59:35 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 188
+[28-Jan-2026 05:59:35 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 233
+[28-Jan-2026 05:59:59 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 188
+[28-Jan-2026 05:59:59 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 233
+[28-Jan-2026 05:59:59 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 188
+[28-Jan-2026 05:59:59 UTC] PHP Warning:  Undefined variable $this_is_not_php_but_we_can_embed_url in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 233
+[28-Jan-2026 06:59:16 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 06:59:16 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 06:59:16 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 06:59:17 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 06:59:57 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 06:59:57 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 06:59:57 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 06:59:57 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 07:00:07 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 392
+[28-Jan-2026 07:06:35 UTC] PHP Parse error:  syntax error, unexpected identifier "fa", expecting ")" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 382
+[28-Jan-2026 07:06:36 UTC] PHP Parse error:  syntax error, unexpected identifier "fa", expecting ")" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 382
+[28-Jan-2026 07:07:38 UTC] PHP Parse error:  syntax error, unexpected identifier "fa", expecting ")" in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 381
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:23:10 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 465
+[28-Jan-2026 07:23:10 UTC] PHP Warning:  Undefined variable $jsonVars in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc() in /home/itshomar/itshomar.ir/chat/tickets/all.php:455
+Stack trace:
+#0 {main}
+  thrown in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:02 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 465
+[28-Jan-2026 07:26:02 UTC] PHP Warning:  Undefined variable $jsonVars in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc() in /home/itshomar/itshomar.ir/chat/tickets/all.php:455
+Stack trace:
+#0 {main}
+  thrown in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:03 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 465
+[28-Jan-2026 07:26:03 UTC] PHP Warning:  Undefined variable $jsonVars in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc() in /home/itshomar/itshomar.ir/chat/tickets/all.php:455
+Stack trace:
+#0 {main}
+  thrown in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 465
+[28-Jan-2026 07:26:05 UTC] PHP Warning:  Undefined variable $jsonVars in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc() in /home/itshomar/itshomar.ir/chat/tickets/all.php:455
+Stack trace:
+#0 {main}
+  thrown in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:05 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 465
+[28-Jan-2026 07:26:05 UTC] PHP Warning:  Undefined variable $jsonVars in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc() in /home/itshomar/itshomar.ir/chat/tickets/all.php:455
+Stack trace:
+#0 {main}
+  thrown in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 457
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 458
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 459
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 460
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 461
+[28-Jan-2026 07:26:06 UTC] PHP Deprecated:  Using ${expr} (variable variables) in strings is deprecated, use {${expr}} instead in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 465
+[28-Jan-2026 07:26:06 UTC] PHP Warning:  Undefined variable $jsonVars in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 321
+[28-Jan-2026 07:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc() in /home/itshomar/itshomar.ir/chat/tickets/all.php:455
+Stack trace:
+#0 {main}
+  thrown in /home/itshomar/itshomar.ir/chat/tickets/all.php on line 455
